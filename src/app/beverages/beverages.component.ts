@@ -3,7 +3,7 @@ import { BeverageService } from './beverage.service';
 import { Router } from '@angular/router';
 
 @Component({
-  selector: 'beverages',
+  selector: 'app-beverages',
   templateUrl: './beverages.component.html',
   styleUrls: ['./beverages.component.css']
 })
